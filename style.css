@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#box {
+  padding: 5px;
+  border-radius: 4px;
+}
+ul > li {
+  list-style-type: circle;
+  margin: auto;
+}
+
+#add {
+  padding: 5px 10px;
+  border-radius: 4px;
+}
